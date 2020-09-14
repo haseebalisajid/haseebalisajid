@@ -4,8 +4,8 @@
 ## I'm a Student & Developer.
 
 - 🙋‍♂️ I'm currently a member of DSC at my Campus.
-- 💻 The tech I'm interested in is MERN Stack.
-- 💻 I also provide solutions at Front End Mentor.
+- 💻 The tech I'm interested in is <b>MERN</b> Stack.
+- 💻 I also provide solutions at <b>Front End Mentor</b>.
 - 💬 Ask me about Web.
 - 🎮 I love to play video games (Fifa,Dota 2)
 -->
