@@ -35,7 +35,8 @@
 [<img align="left" alt="haseebalisajid | Facebook" width=22px src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg">][facebook]
 [<img align="left" alt="haseebalisajid | Twitter" width=22px src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg">][twitter]
 [<img align="left" alt="haseebalisajid | LinkedIn" width=22px src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg">][linkedin]
-
+<br>
+<br>
 Open Source Contributor from <b>Pakistan<b> ✌️
 
 [twitter]: https://twitter.com/iam_haseebali
