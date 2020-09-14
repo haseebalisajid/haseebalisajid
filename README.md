@@ -1,7 +1,7 @@
 ### Hi there I'm Haseeb Ali👋
 
-<!--
-**haseebalisajid/haseebalisajid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+## I'm a Student & Developer.
 
 - 🙋‍♂️ I'm currently a member of DSC at my Campus.
 - 💻 The tech I'm interested in is MERN Stack.
@@ -36,6 +36,7 @@
 [<img align="left" alt="haseebalisajid | Twitter" width=22px src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg">][twitter]
 [<img align="left" alt="haseebalisajid | LinkedIn" width=22px src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg">][linkedin]
 
+Open Source Contributor from <b>Pakistan<b> ✌️
 
 [twitter]: https://twitter.com/iam_haseebali
 [linkedin]: https://www.linkedin.com/in/haseeb-ali-720531149/
