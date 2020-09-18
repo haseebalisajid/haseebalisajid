@@ -3,7 +3,7 @@
 
 ## I'm a Student & Developer.
 
-- 🙋‍♂️ I'm currently a member of DSC at my Campus.
+- 🙋‍♂️ Web Dev. Lead DSC Comsats University Islamabad.
 - 💻 The tech I'm interested in is <b>MERN</b> Stack.
 - 💻 I also provide solutions at <b>Front End Mentor</b>.
 - 💬 Ask me about Web.
