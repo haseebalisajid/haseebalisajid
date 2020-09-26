@@ -2,12 +2,12 @@
 
 
 ### I'm a Student & Developer.
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/m-hamzashakeel/m-hamzashakeel/master/code.gif" width="400" height="320" />
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/m-hamzashakeel/m-hamzashakeel/master/code.gif" width="500" height="320" />
 
 ###Personal Stuff:
 - 🙋‍♂️ Web Dev. Lead DSC Comsats University Islamabad.
-- 💻 The tech I'm interested in is <b>MERN</b> Stack.
-- 💻 I also provide solutions at [Front End Mentor][frontend].
+- 💻 Currently I'm a <b>MERN Stack </b> Developer.
+- 💻 Provide solutions at [Front End Mentor][frontend].
 - 💬 Ask me about Web.
 - ✨ I'm learning Full Stack Development, AR & ML.
 - 🎮 I love to play video games (Fifa,Dota 2).
@@ -16,7 +16,7 @@
 ### Languages & Tools
 <img align="left" alt="haseebalisajid | Javascript" width=22px src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg">
 <img align="left" alt="haseebalisajid | Javascript" width=22px src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/redux.svg">
-<img align="left" alt="haseebalisajid | Javascript" width=22px src="https://user-images.githubusercontent.com/32738765/94337637-7ef8c080-0005-11eb-80a4-ec42126dd8f1.png">
+<img align="left" alt="haseebalisajid | Javascript" width=22px src="https://seeklogo.com/images/N/nodejs-logo-065257DE24-seeklogo.com.png">
 <img align="left" alt="haseebalisajid | Javascript" width=22px src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg">
 <img align="left" alt="haseebalisajid | Javascript" width=22px src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mongodb.svg">
 <img align="left" alt="haseebalisajid | Firebase" width=22px src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/firebase.svg">
