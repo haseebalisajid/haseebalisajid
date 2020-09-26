@@ -4,7 +4,7 @@
 ### I'm a Student & Developer.
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/m-hamzashakeel/m-hamzashakeel/master/code.gif" width="500" height="320" />
 
-###Personal Stuff:
+### Personal Stuff:
 - 🙋‍♂️ Web Dev. Lead DSC Comsats University Islamabad.
 - 💻 Currently I'm a <b>MERN Stack </b> Developer.
 - 💻 Provide solutions at [Front End Mentor][frontend].
@@ -14,12 +14,13 @@
 - [Portfolio][portfolio]
 
 ### Languages & Tools
-<img align="left" alt="haseebalisajid | Javascript" width=22px src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg">
-<img align="left" alt="haseebalisajid | Javascript" width=22px src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/redux.svg">
-<img align="left" alt="haseebalisajid | Javascript" width=22px src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png">
-<img align="left" alt="haseebalisajid | Javascript" width=22px src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg">
+<img align="left" alt="haseebalisajid | React" width=22px src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg">
+<img align="left" alt="haseebalisajid | Redux" width=22px src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/redux.svg">
+<img align="left" alt="haseebalisajid | Nofr" width=22px src="https://img.icons8.com/windows/452/nodejs.png">
+<img align="left" alt="haseebalisajid | MongoFB" width=22px src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg">
 <img align="left" alt="haseebalisajid | Javascript" width=22px src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mongodb.svg">
 <img align="left" alt="haseebalisajid | Firebase" width=22px src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/firebase.svg">
+<br>
 <img align="left" alt="haseebalisajid | HTML5" width=22px src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg">
 <img align="left" alt="haseebalisajid | CSS" width=22px src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg">
 <img align="left" alt="haseebalisajid | Boostrap" width=22px src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/bootstrap.svg">
@@ -31,7 +32,7 @@
 <summary>📝 My GitHub Stats</summary>
 <br>
 
-[![haseeb's github stats](https://github-readme-stats.vercel.app/api?username=haseebalisajid&show_icons=true&theme=radical)
+[![haseeb's github stats](https://github-readme-stats.vercel.app/api/?username=haseebalisajid&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 </details>
 
