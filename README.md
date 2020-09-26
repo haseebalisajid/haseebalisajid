@@ -13,7 +13,6 @@
 - 🎮 I love to play video games (Fifa,Dota 2).
 - [Portfolio][portfolio]
 <br>
-
 ### Languages & Tools
 <img align="left" alt="haseebalisajid | React" width=22px src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg">
 <img align="left" alt="haseebalisajid | Redux" width=22px src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/redux.svg">
