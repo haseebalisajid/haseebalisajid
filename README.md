@@ -14,20 +14,18 @@
 - [Portfolio][portfolio]
 
 ### Languages & Tools
-
-
-<code><img width=24px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react.png"></code>
-<code><img width=24px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux.png"></code>
-<code><img width=24px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/node.png"></code>
-<code><img width=24px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javscript.png"></code>
-<code><img width=24px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase.png"></code>
-<code><img width=24px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb.png"></code>
-<code><img width=24px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html.png"></code>
-<code><img width=24px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css.png"></code>
-<code><img width=24px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics//bootstrap.png"></code>
-<code><img width=24px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery.png"></code>
-<code><img width=24px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vscode.png"></code>
-<code><img width=24px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/adobexd.png"></code>
+<img align="left" alt="haseebalisajid | Javascript" width=22px src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg">
+<img align="left" alt="haseebalisajid | Javascript" width=22px src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/redux.svg">
+<img align="left" alt="haseebalisajid | Javascript" width=22px src="https://user-images.githubusercontent.com/32738765/94337637-7ef8c080-0005-11eb-80a4-ec42126dd8f1.png">
+<img align="left" alt="haseebalisajid | Javascript" width=22px src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg">
+<img align="left" alt="haseebalisajid | Javascript" width=22px src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mongodb.svg">
+<img align="left" alt="haseebalisajid | Firebase" width=22px src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/firebase.svg">
+<img align="left" alt="haseebalisajid | HTML5" width=22px src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg">
+<img align="left" alt="haseebalisajid | CSS" width=22px src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg">
+<img align="left" alt="haseebalisajid | Boostrap" width=22px src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/bootstrap.svg">
+<img align="left" alt="haseebalisajid | JQuery" width=22px src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/jquery.svg">
+<img align="left" alt="haseebalisajid | Adobe XD" width=22px src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/adobexd.svg">
+<img align="left" alt="haseebalisajid | VS Code" width=22px src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/visualstudio.svg">
 
 <br>
 <details>
