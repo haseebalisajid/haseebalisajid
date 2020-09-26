@@ -12,7 +12,8 @@
 - ✨ I'm learning Full Stack Development, AR & ML.
 - 🎮 I love to play video games (Fifa,Dota 2).
 - [Portfolio][portfolio]
-
+<br>
+<br>
 ### Languages & Tools
 <img align="left" alt="haseebalisajid | React" width=22px src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg">
 <img align="left" alt="haseebalisajid | Redux" width=22px src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/redux.svg">
@@ -20,7 +21,6 @@
 <img align="left" alt="haseebalisajid | MongoFB" width=22px src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg">
 <img align="left" alt="haseebalisajid | Javascript" width=22px src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mongodb.svg">
 <img align="left" alt="haseebalisajid | Firebase" width=22px src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/firebase.svg">
-<br>
 <img align="left" alt="haseebalisajid | HTML5" width=22px src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg">
 <img align="left" alt="haseebalisajid | CSS" width=22px src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg">
 <img align="left" alt="haseebalisajid | Boostrap" width=22px src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/bootstrap.svg">
