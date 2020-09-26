@@ -12,7 +12,7 @@
 - 💬 Ask me about Web.
 - ✨ I'm learning Full Stack Development, AR & ML.
 - 🎮 I love to play video games (Fifa,Dota 2).
-- <b>[Portfolio]</b>[portfolio]
+- 🌐 [Portfolio][portfolio]
 
 
 ### Languages & Tools
