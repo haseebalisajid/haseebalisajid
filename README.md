@@ -14,10 +14,11 @@
 - [Portfolio][portfolio]
 <br>
 <br>
+
 ### Languages & Tools
 <img align="left" alt="haseebalisajid | React" width=22px src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg">
 <img align="left" alt="haseebalisajid | Redux" width=22px src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/redux.svg">
-<img align="left" alt="haseebalisajid | Nofr" width=22px src="https://img.icons8.com/windows/452/nodejs.png">
+<img align="left" alt="haseebalisajid | Node" width=22px src="https://img.icons8.com/windows/452/nodejs.png">
 <img align="left" alt="haseebalisajid | MongoFB" width=22px src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg">
 <img align="left" alt="haseebalisajid | Javascript" width=22px src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mongodb.svg">
 <img align="left" alt="haseebalisajid | Firebase" width=22px src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/firebase.svg">
