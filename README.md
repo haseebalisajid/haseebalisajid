@@ -16,7 +16,7 @@
 ### Languages & Tools
 <img align="left" alt="haseebalisajid | Javascript" width=22px src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg">
 <img align="left" alt="haseebalisajid | Javascript" width=22px src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/redux.svg">
-<img align="left" alt="haseebalisajid | Javascript" width=22px src="https://seeklogo.com/images/N/nodejs-logo-065257DE24-seeklogo.com.png">
+<img align="left" alt="haseebalisajid | Javascript" width=22px src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png">
 <img align="left" alt="haseebalisajid | Javascript" width=22px src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg">
 <img align="left" alt="haseebalisajid | Javascript" width=22px src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mongodb.svg">
 <img align="left" alt="haseebalisajid | Firebase" width=22px src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/firebase.svg">
@@ -25,13 +25,13 @@
 <img align="left" alt="haseebalisajid | Boostrap" width=22px src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/bootstrap.svg">
 <img align="left" alt="haseebalisajid | JQuery" width=22px src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/jquery.svg">
 <img align="left" alt="haseebalisajid | VS Code" width=22px src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/visualstudio.svg">
-
+<br>
 <br>
 <details>
 <summary>📝 My GitHub Stats</summary>
 <br>
 
-[![haseeb's github stats](https://github-readme-stats.vercel.app/api?username=haseebalisajid)](https://github.com/haseebalisajid/github-readme-stats)
+[![haseeb's github stats](https://github-readme-stats.vercel.app/api?username=haseebalisajid&show_icons=true&theme=radical)
 
 </details>
 
