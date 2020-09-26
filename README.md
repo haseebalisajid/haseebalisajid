@@ -2,15 +2,15 @@
 
 
 ### I'm a Student & Developer.
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/m-hamzashakeel/m-hamzashakeel/master/code.gif" width="500" height="320" />
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/m-hamzashakeel/m-hamzashakeel/master/code.gif" width="500" height="350" />
 
 ### Personal Stuff:
-- 🙋‍♂️ Web Dev. Lead DSC Comsats University Islamabad.
-- 💻 Currently I'm a <b>MERN Stack </b> Developer.
-- 💻 Provide solutions at [Front End Mentor][frontend].
-- 💬 Ask me about Web.
-- ✨ I'm learning Full Stack Development, AR & ML.
-- 🎮 I love to play video games (Fifa,Dota 2).
+- 🙋‍♂️ Web Dev. Lead DSC Comsats University Islamabad.<br>
+- 💻 Currently I'm a <b>MERN Stack </b> Developer.<br>
+- 💻 Provide solutions at [Front End Mentor][frontend].<br>
+- 💬 Ask me about Web.<br>
+- ✨ I'm learning Full Stack Development, AR & ML.<br>
+- 🎮 I love to play video games (Fifa,Dota 2).<br>
 - [Portfolio][portfolio]
 <br>
 <br>
