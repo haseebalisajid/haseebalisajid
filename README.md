@@ -2,7 +2,7 @@
 
 
 ### I'm a Student & Developer.
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/m-hamzashakeel/m-hamzashakeel/master/code.gif" width="500" height="320" />
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/m-hamzashakeel/m-hamzashakeel/master/code.gif" width="400" height="320" />
 
 ###Personal Stuff:
 - 🙋‍♂️ Web Dev. Lead DSC Comsats University Islamabad.
@@ -24,7 +24,6 @@
 <img align="left" alt="haseebalisajid | CSS" width=22px src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg">
 <img align="left" alt="haseebalisajid | Boostrap" width=22px src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/bootstrap.svg">
 <img align="left" alt="haseebalisajid | JQuery" width=22px src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/jquery.svg">
-<img align="left" alt="haseebalisajid | Adobe XD" width=22px src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/adobexd.svg">
 <img align="left" alt="haseebalisajid | VS Code" width=22px src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/visualstudio.svg">
 
 <br>
