@@ -1,10 +1,9 @@
 
 ### Hi there I'm Haseeb Ali👋
-![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/m-hamzashakeel/m-hamzashakeel/master/code.gif" width="500" height="350" />
 
-
+![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
 ### I'm a Student & Developer.
 
 
