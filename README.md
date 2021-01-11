@@ -2,8 +2,8 @@
 ### Hi there I'm Haseeb Ali👋
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/m-hamzashakeel/m-hamzashakeel/master/code.gif" width="500" height="350" />
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=haseebalisajid.haseebalisajid)
-![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
+
+![](https://visitor-badge.glitch.me/badge?page_id=haseebalisajid)
 ### I'm a Student & Developer.
 
 
