@@ -8,7 +8,7 @@
 
 ### Personal Stuff:
 - 🙋‍♂️ Web Dev. Lead DSC Comsats University Islamabad.
-- 💻 Currently I'm a <b>MERN Stack Developer </b> Developer.
+- 💻 Currently I'm a <b>MERN Stack </b> Developer.
 - 💻 Provide solutions at [Front End Mentor][frontend].
 - 💬 Ask me about Web.
 - ✨ I'm learning Data Science & Machine Learning.
