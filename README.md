@@ -22,7 +22,7 @@
 <img align="left" alt="haseebalisajid | MongoFB" width=22px src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg">
 <img align="left" alt="haseebalisajid | Javascript" width=22px src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mongodb.svg">
 <img align="left" alt="haseebalisajid | Firebase" width=22px src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/firebase.svg">
-
+<br>
 <br>
 <details>
 <summary>📝 My GitHub Stats</summary>
