@@ -28,7 +28,6 @@
 <img align="left" alt="haseebalisajid | JQuery" width=22px src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/jquery.svg">
 <img align="left" alt="haseebalisajid | VS Code" width=22px src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/visualstudio.svg">
 <br>
-<br>
 <details>
 <summary>📝 My GitHub Stats</summary>
 <br>
