@@ -7,7 +7,7 @@
 
 
 ### Personal Stuff:
-- 🙋‍♂️ Web Dev. Lead DSC Comsats University Islamabad.
+- 🙋‍♂️ Fromer Web Dev. Lead DSC Comsats University Islamabad.
 - 💻 Currently I'm a <b>MERN Stack </b> Developer.
 - 💬 Ask me about Web.
 - ✨ I'm learning Advance Backend Concepts.
