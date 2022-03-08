@@ -7,10 +7,11 @@
 
 
 ### Personal Stuff:
+- 🙋‍♂️ Jr.Software Engineer at RedBuffer.
 - 🙋‍♂️ Fromer Web Dev. Lead DSC Comsats University Islamabad.
 - 💻 I'm a <b>MERN Stack </b> Developer.
 - 💬 Ask me about Web.
-- ✨ I'm learning Advance Backend Concepts.
+- 💻 The tech I'm interested MERN Stack/DevOps.
 - 🎮 I love to play video games (Fifa,Dota 2).
 - 🌐 [Portfolio][portfolio]
 
