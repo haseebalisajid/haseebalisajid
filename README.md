@@ -3,14 +3,14 @@
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/m-hamzashakeel/m-hamzashakeel/master/code.gif" width="500" height="350" />
 
-### I'm a MERN Stack Developer.
+### I'm a Full Stack Developer.
 
 
 ### Personal Stuff:
 - 🙋‍♂️ Jr.Software Engineer at RedBuffer.
 - 🙋‍♂️ Fromer Web Dev. Lead DSC Comsats University Islamabad.
 - 💬 Ask me about Web.
-- 💻 The tech I'm interested MERN Stack/DevOps.
+- 💻 The tech I'm interested Full Stack/DevOps.
 - 🎮 I love to play video games (Fifa,Dota 2).
 - 🌐 [Portfolio][portfolio]
 
