@@ -7,7 +7,7 @@
 
 
 ### Personal Stuff:
-- 🙋‍♂️ Jr.Software Engineer at RedBuffer.
+- 🙋‍♂️ Jr.Software Engineer at Full Stack Labs.
 - 🙋‍♂️ Fromer Web Dev. Lead DSC Comsats University Islamabad.
 - 💬 Ask me about Web.
 - 💻 The tech I'm interested Full Stack/DevOps.
