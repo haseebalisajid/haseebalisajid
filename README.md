@@ -3,7 +3,7 @@
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/m-hamzashakeel/m-hamzashakeel/master/code.gif" width="500" height="350" />
 
-### I'm a Full Stack Developer.
+### Software Engineer.
 
 
 ### Personal Stuff:
@@ -12,7 +12,6 @@
 - 💬 Ask me about Web.
 - 💻 The tech I'm interested Full Stack/DevOps.
 - 🎮 I love to play video games (Fifa,Dota 2).
-- 🌐 [Portfolio][portfolio]
 
 
 ### Languages & Tools
