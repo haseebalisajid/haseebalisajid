@@ -1,28 +1,43 @@
 
-### Hi there I'm Haseeb Ali👋
+# Hi there, I'm Haseeb Ali Sajid 👋 
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/m-hamzashakeel/m-hamzashakeel/master/code.gif" width="500" height="350" />
+## Software Engineer
 
-### Software Engineer.
-
-
-### Personal Stuff:
-- 🙋‍♂️ Jr.Software Engineer at Full Stack Labs.
-- 🙋‍♂️ Fromer Web Dev. Lead DSC Comsats University Islamabad.
+- 👨‍💻 Former Jr.Software Engineer at Full Stack Labs & Red Buffer.
+- 👨‍💻 Fromer Web Dev. Lead at DSC Comsats University, Islamabad.
 - 💬 Ask me about Web.
-- 💻 The tech I'm interested Full Stack/DevOps.
-- 🎮 I love to play video games (Fifa,Dota 2).
+- 🥅 2023 Goals: Learn about web3 & devOps.
+- ⚡ Fun fact: I love to Fifa & Dota 2.
+- 🔗 [Resume](https://docs.google.com/document/d/1Iob5JxtqKwZyOUfs2R_HsdrA2bLem0myI9bK9lYVJBY/edit)
 
 
-### Languages & Tools
-<img align="left" alt="React.JS" width=22px src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg">
-<img align="left" alt="Redux" width=22px src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/redux.svg">
-<img align="left" alt="Node.JS" width=22px src="https://img.icons8.com/windows/452/nodejs.png">
-<img align="left" alt="MongoDB" width=22px src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg">
-<img align="left" alt="Javascript" width=22px src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mongodb.svg">
-<img align="left" alt="Firebase" width=22px src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/firebase.svg">
-<br>
-<br>
+### Connect with me:
+
+[![website](https://raw.githubusercontent.com/haseebalisajid/codeSTACKr/master/img/twitter-light.svg)](https://twitter.com/iam_haseebali#gh-light-mode-only)
+[![website](https://raw.githubusercontent.com/haseebalisajid/codeSTACKr/master/img/twitter-light.svg)](https://twitter.com/iam_haseebali#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](https://raw.githubusercontent.com/haseebalisajid/codeSTACKr/master/img/linkedin-light.svg)](https://www.linkedin.com/in/haseeb-ali-720531149/#gh-light-mode-only)
+[![website](https://raw.githubusercontent.com/haseebalisajid/codeSTACKr/master/img/linkedin-light.svg)](https://www.linkedin.com/in/haseeb-ali-720531149/#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](https://raw.githubusercontent.com/haseebalisajid/codeSTACKr/master/img/instagram-light.svg)](https://www.instagram.com/cb_snaps1/#gh-light-mode-only)
+[![website](https://raw.githubusercontent.com/haseebalisajid/codeSTACKr/master/img/instagram-light.svg)](https://www.instagram.com/cb_snaps1/#gh-dark-mode-only)
+
+### Languages and Tools:
+
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />]
+[<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />]
+[<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />]
+[<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />]
+[<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="padding-right:10px;" />]
+[<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />]
+[<img align="left" alt="Gatsby" width="26px" src="https://user-images.githubusercontent.com/29199730/167189720-e9d60a01-2e4e-4515-bb70-84badd58ef00.svg" style="padding-right:10px;" />]
+[<img align="left" alt="GraphQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" style="padding-right:10px;" />]
+[<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />]
+[<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />]
+[<img align="left" alt="postgresql" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" style="padding-right:10px;" />]
+[<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />]
+<br />
+<br />
 <details>
 <summary>📝 My GitHub Stats</summary>
 <br>
@@ -30,16 +45,6 @@
 [![haseeb's github stats](https://github-readme-stats.vercel.app/api/?username=haseebalisajid&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 </details>
-
-
-
-### Contact with Me
-
-[<img align="left" alt="haseebalisajid | Facebook" width=22px src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg">][facebook]
-[<img align="left" alt="haseebalisajid | Twitter" width=22px src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg">][twitter]
-[<img align="left" alt="haseebalisajid | LinkedIn" width=22px src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg">][linkedin]
-<br>
-<br>
 Open Source Contributor from <b>Pakistan<b> ✌️
 
 [twitter]: https://twitter.com/iam_haseebali
