@@ -5,7 +5,7 @@
 
 ## Software Engineer
 
-- 👨‍💻 Full Stack Engineer at NUMU,
+- 👨‍💻 Full Stack Engineer at NUMU.
 - 👨‍💻 Former Jr.Software Engineer at FullStack Labs & Red Buffer.
 - 💬 Ask me about Web.
 - 🥅 2023 Goals: Learn about web3 & devOps.
