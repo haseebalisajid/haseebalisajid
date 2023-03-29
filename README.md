@@ -5,8 +5,8 @@
 
 ## Software Engineer
 
+- 👨‍💻 Full Stack Engineer at NUMU,
 - 👨‍💻 Former Jr.Software Engineer at FullStack Labs & Red Buffer.
-- 👨‍💻 Fromer Web Dev. Lead at DSC Comsats University, Islamabad.
 - 💬 Ask me about Web.
 - 🥅 2023 Goals: Learn about web3 & devOps.
 - ⚡ Fun fact: I love to play Fifa & Dota 2.
