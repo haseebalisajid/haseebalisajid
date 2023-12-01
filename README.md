@@ -5,25 +5,18 @@
 
 ## Software Engineer
 
-- 👨‍💻 Full Stack Engineer at NUMU.
-- 👨‍💻 Former Jr.Software Engineer at FullStack Labs & Red Buffer.
+- 👨‍💻 Full Stack Engineer at [NUMU](https://numuworld.com/).
 - 💬 Ask me about Web.
-- 🥅 2023 Goals: Learn about web3 & devOps.
+- 🥅 2024 Goals: Learn about web3 & devOps.
 - ⚡ Fun fact: I love to play Fifa & Dota 2.
 - 💼 Any freelance work? do reach, [email](mailto:alihaseeb714@gmail.com) :)
-- 🔗 [Resume](https://docs.google.com/document/d/1Iob5JxtqKwZyOUfs2R_HsdrA2bLem0myI9bK9lYVJBY/edit)
+- 🔗 [Resume](https://drive.google.com/file/d/1SK69c_6oAyDRAxTx9JDg6IlJdMGhJ8RF/view)
 
 
 ### Connect with me:
 
-<a href="https://www.instagram.com/cb_snaps1/">
-  <img align="left" alt="Haseeb's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
-</a>
-<a href="https://twitter.com/iam_haseebali">
-  <img align="left" alt="Haseeb | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
 <a href="https://www.linkedin.com/in/haseeb-ali-720531149/">
-  <img align="left" alt="Haseeb's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Haseeb's LinkedIN" width="24px" src="https://cdn-icons-png.flaticon.com/256/174/174857.png" />
 </a>
 
 <br>
