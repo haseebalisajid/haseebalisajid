@@ -5,7 +5,7 @@
 
 ## Software Engineer
 
-- 👨‍💻 Full Stack Engineer at [NUMU](https://numuworld.com/).
+- 👨‍💻 Full Stack Engineer at Stealth Mode Startup.
 - 💬 Ask me about Web.
 - 🥅 2024 Goals: Learn about web3 & devOps.
 - ⚡ Fun fact: I love to play Fifa & Dota 2.
