@@ -15,3 +15,5 @@ Full Stack Engineer with 3+ years of experience building scalable web applicatio
 - **Testing**: Jest, Cypress, TDD
 - **Tools**: Git, Docker, Sentry, Jira
 
+- hay brother thats amazing i just wants to learn about fork so please dont mind Haseeb bro because Haseeb Ali is name of my close friend 
+
