@@ -1,9 +1,10 @@
 # Hi there, I'm Haseeb Ali 👋
 
-Full Stack Engineer with 3+ years of experience building scalable web applications and distributed systems. Specialized in developing high-performance solutions using modern JavaScript frameworks and cloud technologies. Proven track record of leading engineering teams and delivering complex projects in fast-paced environments.
+Full Stack Engineer with almost 5 of hands-on experience in building modern web applications using React, Next.js, Node.js, Nest.js and AWS. Strong background in developing reliable systems,
+improving website performance, and leading small teams. Focused on delivering clean code, fast-loading interfaces, and easy-to-maintain features that help teams move faster.
 
 #### Connect with me:
-[LinkedIn](https://www.linkedin.com/in/haseeb-ali-sajid-720531149/) | [Mail](alihaseeb714@gmail.com)  | [Resume](https://drive.google.com/file/d/1ficSm1S7AlXiRQFy8cxDgzUK-34ccMX2/view?usp=sharing)
+[LinkedIn](https://www.linkedin.com/in/haseeb-ali-sajid-720531149/) | [Mail](alihaseeb714@gmail.com)  | [Resume](https://drive.google.com/file/d/14w0Zs6eYph2x9m5iE5mrlouLn7cvNWl1/view?usp=sharing)
 
 
 ## Technical Skills
