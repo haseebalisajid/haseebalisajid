@@ -4,7 +4,7 @@ Full Stack Engineer with almost 5 of hands-on experience in building modern web 
 improving website performance, and leading small teams. Focused on delivering clean code, fast-loading interfaces, and easy-to-maintain features that help teams move faster.
 
 #### Connect with me:
-[LinkedIn](https://www.linkedin.com/in/haseeb-ali-sajid-720531149/) | [Mail](alihaseeb714@gmail.com)  | [Resume](https://drive.google.com/file/d/14w0Zs6eYph2x9m5iE5mrlouLn7cvNWl1/view?usp=sharing)
+[LinkedIn](https://www.linkedin.com/in/haseeb-ali-sajid-720531149/) | [Mail](alihaseeb714@gmail.com)  | [Resume](https://drive.google.com/file/d/1wANnB-BypN4RWoYV0YZTf-lVcKgzeGwL/view?usp=sharing)
 
 
 ## Technical Skills
