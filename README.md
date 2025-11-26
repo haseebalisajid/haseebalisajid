@@ -1,6 +1,6 @@
 # Hi there, I'm Haseeb Ali 👋
 
-Full Stack Engineer with almost 5 of hands-on experience in building modern web applications using React, Next.js, Node.js, Nest.js and AWS. Strong background in developing reliable systems,
+Full Stack Engineer with almost 5 years of hands-on experience in building modern web applications using React, Next.js, Node.js, Nest.js and AWS. Strong background in developing reliable systems,
 improving website performance, and leading small teams. Focused on delivering clean code, fast-loading interfaces, and easy-to-maintain features that help teams move faster.
 
 #### Connect with me:
